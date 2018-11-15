@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/DXApplication189/Form1.cs) (VB: [Form1.vb](./VB/DXApplication189/Form1.vb))
+* [Program.cs](./CS/DXApplication189/Program.cs) (VB: [Program.vb](./VB/DXApplication189/Program.vb))
+* **[TileViewDrawButtonHelper.cs](./CS/DXApplication189/TileViewDrawButtonHelper.cs) (VB: [TileViewDrawButtonHelper.vb](./VB/DXApplication189/TileViewDrawButtonHelper.vb))**
+<!-- default file list end -->
 # GridControl - How to draw a button in a group header when TileView's is used in Kanban mode
 
 
